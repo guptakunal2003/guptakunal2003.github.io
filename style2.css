@@ -1,0 +1,146 @@
+body{
+  text-align: center;
+  background-color: #EFF0F4;
+  margin: 0;
+  padding: 0;
+}
+div{
+  padding: 0;
+  margin: 0;
+}
+h1{
+  size:5.625rem;
+  color:#66BFBF;
+  margin: 0;
+  font-family: 'Pacifico', cursive;
+}
+h2{
+  size:2.5rem;
+  color:#66BFBF;
+  font-family: 'Source Sans Pro', sans-serif;
+  font-weight: normal;
+}
+h3{
+
+  font-family: 'Merriweather', serif;
+  color: #11999E;
+}
+p{
+
+  /*color:#1F4690;*/
+  color: #40514E;
+}
+a{
+  color:  #233B6E;
+}
+hr{
+  border-style:dotted none none none;
+  border-color: #EAF6F6;
+  border-width: 5px;
+  width: 10%;
+  padding: 0;
+}
+
+/*class*/
+.topconatiner{
+  position: relative;
+  padding : 100px;
+  background-color: #EAF6F6;
+  margin: 0;
+  border: 0;
+
+}
+.middle-container{
+  margin: 0;
+  border: 0;
+  padding:0;
+}
+.bottom-container{
+  background-color: #EAF6F6;
+  margin: 0;
+  border: 0;
+  border-color: black;
+  border-style: none;
+  padding: 0;
+
+}
+.cloud-top{
+  height: 50px;
+  position:absolute;
+  top: 40px;
+  right: 40px;
+}
+.cloud-bottom{
+  height: 50px;
+  position:absolute;
+  left:40px;
+}
+.call{
+  height: 200px;
+  margin-bottom: 20px;
+}
+
+
+
+.profilepic{
+  padding: 0;
+  margin: 0;
+  border: 0;
+  height: 200px;
+  border-radius: 80px;
+}
+.code{
+  padding: 0;
+  height: 200px;
+  border-radius: 100px;
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+.computer-image{
+  padding: 0;
+  margin: 0;
+  height: 200px;
+  border-radius: 100px;
+  width:25%;
+  float: right;
+  margin-left: 30px;
+
+}
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+}
+.skilltext{
+  text-align: left;
+  line-height: 2;
+}
+.BUTTON_ANB {
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   color: #FFFFFF;
+   font-family: Open Sans;
+   font-size: 10px;
+   font-weight: normal;
+   padding: 10px;
+   background-color: #233B6E;
+   border: solid #337FED 1px;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+   margin: 10px;
+}
+
+.BUTTON_ANB:hover {
+   background: #1E62D0;
+   border: solid #0059A0 1px;
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   text-decoration: none;
+}
+.copyright{
+  color: white;
+}
