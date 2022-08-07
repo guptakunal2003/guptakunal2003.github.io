@@ -26,7 +26,7 @@ h1 {
   margin-bottom: 0;
   padding-top:1rem;
   padding-bottom: 1.2rem;
-  font-size: 3.3vh;
+  font-size: 6vh;
 
 }
 h2 {
@@ -45,7 +45,7 @@ h3 {
 p{
   color:#0A2131;
   height: auto;
-  font-size: 1.4vh;
+  font-size: 2.5vh;
 
 }
 
@@ -60,7 +60,7 @@ p{
 .navbar-brand {
   font-family: Ubuntu;
   font-weight: bold;
-  font-size: 2.4vh;
+  font-size: 4vh;
 }
 .nav-item {
   padding: 0 10px;
@@ -81,7 +81,7 @@ p{
   padding-top: 0%;
   padding-left:9%;
   padding-right:9%;
-  height: 15vh;
+  height: 40vh;
   /* padding-bottom:9%; */
 }
 
@@ -134,7 +134,7 @@ p{
   text-align: center;
   padding: 100px 15% 20%;
   height: 20vh;
-  font-size: 1.2vh;
+  font-size: 4vh;
 }
 
 #about {
@@ -143,7 +143,7 @@ p{
 .spanSpace {
   padding-left: 25px;
   padding-right: 25px;
-  font-size: 1.2vh;
+  font-size: 3vh;
 }
 .social {
   padding-bottom: 5%;
